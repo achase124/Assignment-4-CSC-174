@@ -19,7 +19,7 @@
 		</main>
 
 		<aside>
-			<img>
+			<img src="img/ana.jpg" alt="Ana Acuña">
 		</aside>
 
 		<article>
@@ -33,7 +33,7 @@
 		</article>
 
 		<aside>
-			<img>
+			<img src="img/andrew.jpeg">
 		</aside>
 
 		<article>

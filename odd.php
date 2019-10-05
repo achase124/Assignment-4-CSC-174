@@ -19,7 +19,7 @@
 		</main>
 
 		<aside>
-			<img>
+			<img src="img/kat.jpg" alt="Kat Fuss">
 		</aside>
 
 		<article>
