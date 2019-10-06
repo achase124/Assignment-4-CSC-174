@@ -13,6 +13,13 @@
 			<img src="img/brandenburg_gate.jpg" alt="Brandenburg Gate">
 		</header>
 
+		<nav>
+			<ul>
+				<li><a href="index.php">Similar Students</a></li>
+				<li><a href="odd.php">Odd Student</a></li>
+			</ul>
+		</nav>
+
 		<main>
 			<h2>The Similarity</h2>
 			<p>Neither Ana Acuña nor Andrew Thankson were born in mainland United States, and thus will be the topic of similarity between these two students.</p>
