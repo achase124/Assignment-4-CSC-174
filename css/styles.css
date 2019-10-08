@@ -1,0 +1,28 @@
+
+.container {
+	margin: 0 auto;
+	width: 80%;
+	max-width: 760px;
+}
+
+.picture {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	object-position: cover;
+/*	min-height: 100vh;*/
+}
+
+.primary {
+	top: 0;
+	position: absolute;
+	right: 0;
+	width: 100%;
+}
+
+.action {
+	bottom: 0;
+	position: fixed;
+	right: 0;
+	width: 100%;
+}

@@ -1,0 +1,93 @@
+
+
+.container {
+	margin: 0 auto;
+	width: 80%
+	max-width: 760px;
+/*	min-height: 100vh;
+	min-width: 100vh;*/
+	display: grid;
+	grid-template-columns: 240px auto 270px;
+	grid-template-rows: 150px 1fr 1fr 1fr;
+}
+
+img {
+	max-width: 250px;
+	max-height: 500px;
+	margin: 10px;
+}
+
+.top {
+	grid-column: 1 / 3;
+	grid-row: 1 / 2;
+}
+
+nav {
+	grid-column: 3 / 4;
+	grid-row: 1 / 2;
+	text-align: center;
+}
+
+.same1name {
+	grid-column: 1 / 2;
+	grid-row: 2 / 3;
+}
+
+.same1desctription {
+	grid-column: 2 / 3;
+	grid-row: 2 / 3;
+}
+
+.same1picture {
+	grid-column: 3 / 4;
+	grid-row: 2 / 3;
+}
+
+.same2name {
+	grid-column: 1 / 2;
+	grid-row: 3 / 4;
+}
+
+.same2desctription {
+	grid-column: 2 / 3;
+	grid-row: 3 / 4;
+}
+
+.same2picture {
+	grid-column: 3 / 4;
+	grid-row: 3 / 4;
+}
+
+.difName {
+	grid-column: 1 / 2;
+	grid-row: 4 / 5;
+}
+
+.difDescription {
+	grid-column: 2 / 3;
+	grid-row: 4 / 5;
+}
+
+.difPicture {
+	grid-column: 3 / 4;
+	grid-row: 4 / 5;
+}
+
+.name {
+	text-align: center;
+}
+
+.description {
+	margin-bottom: 40px;
+}
+
+.p1, .p2 {
+	background-color: #e1f7f4;
+}
+
+.p3 {
+	background-color: #ed8cc8;
+	margin-top: 30px;
+	padding: 20px;
+	border-top: 2px solid black;
+}

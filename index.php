@@ -1,29 +1,42 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
-	<head>
-		<meta charset="utf-8">
-		<title>Team Berlin || Assignment 04: Odd Student Out</title>
-		<!-- space for CSS Link -->
-	</head>
+<head>
+	<meta charset="utf-8">
+	<title>Team Berlin || Assignment 04: Odd Student Out</title>
+	<link rel="stylesheet" href="css/z-pattern.css">
+</head>
 
-	<body>
-		<header>
+<body>
+
+	<div class="container">
+
+		<img class="tl" src="img/icon.png">
+
+		<div class="middle">
 			<h1>Team Berlin</h1>
-			<img src="img/brandenburg_gate.jpg" alt="Brandenburg Gate">
-		</header>
+		</div>
 
-		<nav>
-			<ul>
-				<li><a href="index.php">Similar Students</a></li>
-				<li><a href="odd.php">Odd Student</a></li>
-			</ul>
-		</nav>
+		<div class="tr">
+			<nav>
+				<a href="https://en.wikipedia.org/wiki/Berlin">Learn more about Berlin</a>
+			</nav>
+		</div>
 
-		
-		<main>
-			<h2>The Odd Student Out: Kat Fuss</h2>
-			<p>Kat Fuss is a Rochester native, unlike Ana and Andrew, who were both born outside mainland United States and resided there for some time.</p>
-		</main>
-	</body>
-</html>
+
+		<div class="bl">
+			<section>
+				<p>Difference: Kat Fuss is a Rochester native, unlike Ana and Andrew, who were both born outside mainland United States and resided there for some time.</p>
+			</section>
+		</div>
+
+		<div class="br">
+			<nav>
+				<a href="odd.php">Students</a>
+			</nav>
+		</div>
+
+	</div>
+
+	
+</body>

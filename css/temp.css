@@ -1,0 +1,27 @@
+.container {
+	margin: 0 auto;
+	width: 80%
+	max-width: 760px;
+}
+
+.tl {
+	max-width: 100px;
+	max-height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	left: 0;
+	top: 0;
+	background-color: red;
+}
+
+.tr {
+	max-width: 100px;
+	max-height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	right: 0;
+	top: 0;
+	background-color: red;
+}
