@@ -12,13 +12,16 @@
 	<div class="container">
 
 		<div class="top">
-			<h2>The Similarity</h2>
-			<p>Neither Ana Acuña nor Andrew Thankson were born in mainland United States, and thus will be the topic of similarity between these two students.</p>
+			<div class="topText">
+				<h2>The Similarity</h2>
+				<p>Neither Ana Acuña nor Andrew Thankson were born in mainland United States, and thus will be the topic of similarity between these two students.</p>
+			</div>
+			<nav>
+				<a href="index.php">Home</a>
+			</nav>
 		</div>
 
-		<nav>
-			<a href="index.php">Home</a>
-		</nav>
+		
 
 		
 		<div class="p1 name same1name">
