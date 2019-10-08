@@ -45,7 +45,6 @@
 
 		<div class="p2 name same2name">
 			<h2>Andrew Thankson</h2>
-
 			
 		</div>
 
