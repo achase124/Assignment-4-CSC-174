@@ -11,6 +11,18 @@ body {
 	color: #1cedd8;
 }
 
+/* fullBackground class for Slider. Original Code sourced from https://www.jqueryscript.net/slideshow/Simplest-Background-Image-Slideshow-Plugin-jQuery-Full-Clip.html */
+.fullBackground {
+	background-position:center center;
+	background-attachment:fixed;
+	background-size: cover;
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
 
 .container {
 	margin: 0 auto;
